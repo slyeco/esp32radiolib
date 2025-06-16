@@ -1,0 +1,50 @@
+# PlatformIO build artifacts
+.pio/
+.vscode/
+.pioenvs/
+.piolibdeps/
+
+# IDE files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Personal configuration (should not be shared)
+config.h
+secrets.h
+
+# Backup files
+*.bak
+*.tmp
+*~
+
+# Compressed files
+*.zip
+*.tar.gz
+*.rar
+
+# Library downloads (should be managed by PlatformIO)
+lib_downloads/
+libraries/
+
+# Temporary files
+temp/
+tmp/
