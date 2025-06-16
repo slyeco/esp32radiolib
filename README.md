@@ -119,8 +119,8 @@ Fresh Device → Provision Credentials → Join Network → Save State → Opera
 ### **2. Software Setup**
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/heltec-lorawan-devnonce-fix.git
-cd heltec-lorawan-devnonce-fix
+git clone https://github.com/slyeco/esp32radiolib.git
+cd esp32radiolib
 
 # Install dependencies (auto-installed by PlatformIO)
 pio lib install
